@@ -1,12 +1,11 @@
 ### Ola me chamo Fabricio. 👋
 
 - 🔭 Faço alguns mods simples para Dayz ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Entre no meu Discord para mais informações sobre Mods para Dayz e Configuração de servidor ficarei feliz em poder ajudar...
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qHmqczkkQY)
 
-![Binho GitHub stats](https://github-readme-stats.vercel.app/api?username=binho0105&show_icons=true&theme=merko)
+![Binho GitHub stats](https://github-readme-stats.vercel.app/api?username=binho0105&show_icons=true&theme=merko) 
 
 ## Trabalho com as seguintes linguagens
 
